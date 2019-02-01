@@ -1,0 +1,365 @@
+{
+  "data": [
+    {
+      "category": "Industrial",
+      "name": "AIMSAMP Cap Reit",
+      "price": 1.36,
+      "yield": 7.79,
+      "gear": 37.3,
+      "pnav": 1,
+      "marketCap": 870000
+    },
+    {
+      "category": "Hospitality",
+      "name": "Ascendas-hTrust",
+      "price": 0.885,
+      "yield": 6.49,
+      "gear": 32.6,
+      "pnav": 0.99,
+      "marketCap": 999000
+    },
+    {
+      "category": "Industrial",
+      "name": "Ascendas Reit",
+      "price": 2.71,
+      "yield": 5.88,
+      "gear": 35.2,
+      "pnav": 1.33,
+      "marketCap": 7936000
+    },
+    {
+      "category": "Hospitality",
+      "name": "Ascott Reit",
+      "price": 1.21,
+      "yield": 5.85,
+      "gear": 36.2,
+      "pnav": 1,
+      "marketCap": 2601000
+    },
+    {
+      "category": "Retail",
+      "name": "BHG Retail Reit",
+      "price": 0.77,
+      "yield": 7.09,
+      "gear": 32.5,
+      "pnav": 0.93,
+      "marketCap": 384000
+    },
+    {
+      "category": "Industrial",
+      "name": "Cache Log Trust",
+      "price": 0.87,
+      "yield": 7.74,
+      "gear": 36.3,
+      "pnav": 1.22,
+      "marketCap": 928000
+    },
+    {
+      "category": "Industrial",
+      "name": "ESR-REIT",
+      "price": 0.58,
+      "yield": 6.64,
+      "gear": 36.7,
+      "pnav": 0.98,
+      "marketCap": 762000
+    },
+    {
+      "category": "Office",
+      "name": "CapitaCom Trust",
+      "price": 1.78,
+      "yield": 5.25,
+      "gear": 33.9,
+      "pnav": 1.02,
+      "marketCap": 6422000
+    },
+    {
+      "category": "Retail",
+      "name": "CapitaMall Trust",
+      "price": 2.07,
+      "yield": 5.39,
+      "gear": 34.2,
+      "pnav": 1.08,
+      "marketCap": 7341000
+    },
+    {
+      "category": "Retail",
+      "name": "CapitaR China Tr",
+      "price": 1.65,
+      "yield": 6.12,
+      "gear": 35.4,
+      "pnav": 1.02,
+      "marketCap": 1488000
+    },
+    {
+      "category": "Hospitality",
+      "name": "CDL HTrust",
+      "price": 1.73,
+      "yield": 5.72,
+      "gear": 33.3,
+      "pnav": 1.17,
+      "marketCap": 2074000
+    },
+    {
+      "category": "Industrial",
+      "name": "EC World Reit",
+      "price": 0.78,
+      "yield": 7.67,
+      "gear": 29.2,
+      "pnav": 0.88,
+      "marketCap": 611000
+    },
+    {
+      "category": "Hospitality",
+      "name": "Far East HTrust",
+      "price": 0.745,
+      "yield": 5.44,
+      "gear": 32.1,
+      "pnav": 0.83,
+      "marketCap": 1382000
+    },
+    {
+      "category": "Healthcare",
+      "name": "First Reit",
+      "price": 1.4,
+      "yield": 6.12,
+      "gear": 33.6,
+      "pnav": 1.38,
+      "marketCap": 1094000
+    },
+    {
+      "category": "Retail",
+      "name": "Fortune Reit HKD",
+      "price": 9.81,
+      "yield": 5.18,
+      "gear": 27.4,
+      "pnav": 0.7,
+      "marketCap": 3166000
+    },
+    {
+      "category": "Retail",
+      "name": "Frasers Cpt Tr",
+      "price": 2.23,
+      "yield": 5.39,
+      "gear": 29.4,
+      "pnav": 1.1,
+      "marketCap": 2064000
+    },
+    {
+      "category": "Office",
+      "name": "Frasers Com Tr",
+      "price": 1.43,
+      "yield": 6.87,
+      "gear": 34.7,
+      "pnav": 0.91,
+      "marketCap": 1152000
+    },
+    {
+      "category": "Hospitality",
+      "name": "Frasers HTrust",
+      "price": 0.805,
+      "yield": 6.27,
+      "gear": 32.1,
+      "pnav": 0.99,
+      "marketCap": 1498000
+    },
+    {
+      "category": "Industrial",
+      "name": "Frasers L&I Tr",
+      "price": 1.13,
+      "yield": 6.26,
+      "gear": 30.9,
+      "pnav": 1.24,
+      "marketCap": 1717000
+    },
+    {
+      "category": "Office",
+      "name": "IREIT Global",
+      "price": 0.805,
+      "yield": 7.32,
+      "gear": 41.7,
+      "pnav": 1.19,
+      "marketCap": 503000
+    },
+    {
+      "category": "Industrial",
+      "name": "Keppel DC Reit",
+      "price": 1.42,
+      "yield": 4.53,
+      "gear": 27.7,
+      "pnav": 1.53,
+      "marketCap": 1600000
+    },
+    {
+      "category": "Office",
+      "name": "Keppel Reit",
+      "price": 1.23,
+      "yield": 4.63,
+      "gear": 38.7,
+      "pnav": 0.88,
+      "marketCap": 4146000
+    },
+    {
+      "category": "Retail",
+      "name": "Lippo Malls Tr",
+      "price": 0.42,
+      "yield": 8.38,
+      "gear": 28.7,
+      "pnav": 1.2,
+      "marketCap": 1186000
+    },
+    {
+      "category": "Office",
+      "name": "ManulifeReit USD",
+      "price": 0.97,
+      "yield": 6.57,
+      "gear": 33.1,
+      "pnav": 1.15,
+      "marketCap": 1321000
+    },
+    {
+      "category": "Retail",
+      "name": "Mapletree Com Tr",
+      "price": 1.62,
+      "yield": 5.57,
+      "gear": 36.3,
+      "pnav": 1.18,
+      "marketCap": 4664000
+    },
+    {
+      "category": "Retail",
+      "name": "Mapletree GCC Tr",
+      "price": 1.24,
+      "yield": 6.08,
+      "gear": 39.3,
+      "pnav": 1.01,
+      "marketCap": 3496000
+    },
+    {
+      "category": "Industrial",
+      "name": "Mapletree Ind Tr",
+      "price": 2.02,
+      "yield": 5.78,
+      "gear": 33.8,
+      "pnav": 1.42,
+      "marketCap": 3808000
+    },
+    {
+      "category": "Industrial",
+      "name": "Mapletree Log Tr",
+      "price": 1.31,
+      "yield": 5.73,
+      "gear": 38,
+      "pnav": 1.27,
+      "marketCap": 3999000
+    },
+    {
+      "category": "Office",
+      "name": "OUE Com Reit",
+      "price": 0.755,
+      "yield": 6.46,
+      "gear": 36.4,
+      "pnav": 0.88,
+      "marketCap": 1162000
+    },
+    {
+      "category": "Hospitality",
+      "name": "OUE HTrust",
+      "price": 0.905,
+      "yield": 5.64,
+      "gear": 38.2,
+      "pnav": 1.19,
+      "marketCap": 1636000
+    },
+    {
+      "category": "Healthcare",
+      "name": "ParkwayLife Reit",
+      "price": 2.87,
+      "yield": 4.65,
+      "gear": 36.4,
+      "pnav": 1.66,
+      "marketCap": 1736000
+    },
+    {
+      "category": "Industrial",
+      "name": "Sabana Reit",
+      "price": 0.4,
+      "yield": 8.28,
+      "gear": 38.2,
+      "pnav": 0.74,
+      "marketCap": 421000
+    },
+    {
+      "category": "Industrial",
+      "name": "CromwellReit EUR",
+      "price": 0.58,
+      "yield": 7.41,
+      "gear": 36.8,
+      "pnav": 1.09,
+      "marketCap": 1475000
+    },
+    {
+      "category": "Office",
+      "name": "Kep-KBS Reit USD",
+      "price": 0.915,
+      "yield": 6.52,
+      "gear": 36,
+      "pnav": 1.09,
+      "marketCap": 759000
+    },
+    {
+      "category": "Industrial",
+      "name": "SoilbuildBizReit",
+      "price": 0.68,
+      "yield": 8.4,
+      "gear": 40.6,
+      "pnav": 1.06,
+      "marketCap": 715000
+    },
+    {
+      "category": "Retail",
+      "name": "SPHREIT",
+      "price": 1.03,
+      "yield": 5.37,
+      "gear": 25.4,
+      "pnav": 1.1,
+      "marketCap": 2643000
+    },
+    {
+      "category": "Retail",
+      "name": "StarhillGbl Reit",
+      "price": 0.76,
+      "yield": 6.34,
+      "gear": 35.4,
+      "pnav": 0.84,
+      "marketCap": 1658000
+    },
+    {
+      "category": "Office",
+      "name": "Suntec Reit",
+      "price": 2.02,
+      "yield": 4.95,
+      "gear": 36.8,
+      "pnav": 0.97,
+      "marketCap": 5358000
+    },
+    {
+      "category": "Industrial",
+      "name": "Viva Ind Tr",
+      "price": 0.935,
+      "yield": 7.99,
+      "gear": 39.8,
+      "pnav": 1.22,
+      "marketCap": 909000
+    }
+  ],
+  "footNotes": [
+    "(Updated: 20180202-1900)",
+    "Cache Log Trust DPU includes portion of the sale proceeds from the disposal of Kim Heng Warehouse in June 2015.",
+    "CromwellReit EUR MktCap to SGD at 1.6159262395.",
+    "Fortune Reit HKD MktCap to SGD at 0.1688503118.",
+    "IREIT Global NAV of 0.42 Euro x 1.6152516478 on 19-Jan-2018.",
+    "Kep-KBS Reit USD MktCap to SGD at 1.3200459129.",
+    "Keppel DC Reit DPU declared quarterly, paid half-yearly",
+    "ManulifeReit USD MktCap to SGD at 1.3200459129."
+  ]
+}
