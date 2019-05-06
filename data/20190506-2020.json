@@ -1,0 +1,364 @@
+{
+  "data": [
+    {
+      "category": "Industrial",
+      "name": "AIMSAMP Cap Reit (O5RU)",
+      "price": 1.38,
+      "yield": 7.34,
+      "gear": 33.5,
+      "pnav": 1.01,
+      "marketCap": 950000
+    },
+    {
+      "category": "Industrial",
+      "name": "Ascendas Reit (A17U)",
+      "price": 3.06,
+      "yield": 5.16,
+      "gear": 36.7,
+      "pnav": 1.49,
+      "marketCap": 9518000
+    },
+    {
+      "category": "Hospitality",
+      "name": "Ascendas-hTrust (Q1P)",
+      "price": 0.915,
+      "yield": 6.54,
+      "gear": 33.1,
+      "pnav": 0.93,
+      "marketCap": 1039000
+    },
+    {
+      "category": "Hospitality",
+      "name": "Ascott Reit (A68U)",
+      "price": 1.19,
+      "yield": 5.92,
+      "gear": 35.7,
+      "pnav": 0.96,
+      "marketCap": 2585000
+    },
+    {
+      "category": "Retail",
+      "name": "BHG Retail Reit (BMGU)",
+      "price": 0.71,
+      "yield": 7.27,
+      "gear": 30.7,
+      "pnav": 0.88,
+      "marketCap": 358000
+    },
+    {
+      "category": "Industrial",
+      "name": "Cache Log Trust (K2LU)",
+      "price": 0.735,
+      "yield": 8.04,
+      "gear": 37.4,
+      "pnav": 1.11,
+      "marketCap": 793000
+    },
+    {
+      "category": "Office",
+      "name": "CapitaCom Trust (C61U)",
+      "price": 1.92,
+      "yield": 4.57,
+      "gear": 35.2,
+      "pnav": 1.07,
+      "marketCap": 7198000
+    },
+    {
+      "category": "Retail",
+      "name": "CapitaMall Trust (C38U)",
+      "price": 2.43,
+      "yield": 4.77,
+      "gear": 34.4,
+      "pnav": 1.21,
+      "marketCap": 8963000
+    },
+    {
+      "category": "Retail",
+      "name": "CapitaR China Tr (AU8U)",
+      "price": 1.46,
+      "yield": 6.75,
+      "gear": 35.5,
+      "pnav": 0.93,
+      "marketCap": 1459000
+    },
+    {
+      "category": "Hospitality",
+      "name": "CDL HTrust (J85)",
+      "price": 1.59,
+      "yield": 5.77,
+      "gear": 35.2,
+      "pnav": 1.07,
+      "marketCap": 1926000
+    },
+    {
+      "category": "Industrial",
+      "name": "CromwellReit EUR (CNNU)",
+      "price": 0.495,
+      "yield": 8.28,
+      "gear": 33,
+      "pnav": 1,
+      "marketCap": 1640000
+    },
+    {
+      "category": "Industrial",
+      "name": "EC World Reit (BWCU)",
+      "price": 0.77,
+      "yield": 8.02,
+      "gear": 31.5,
+      "pnav": 0.89,
+      "marketCap": 612000
+    },
+    {
+      "category": "Industrial",
+      "name": "ESR-REIT (J91U)",
+      "price": 0.52,
+      "yield": 7.73,
+      "gear": 42,
+      "pnav": 1.11,
+      "marketCap": 1648000
+    },
+    {
+      "category": "Hospitality",
+      "name": "Far East HTrust (Q5T)",
+      "price": 0.645,
+      "yield": 6.16,
+      "gear": 39.9,
+      "pnav": 0.74,
+      "marketCap": 1228000
+    },
+    {
+      "category": "Healthcare",
+      "name": "First Reit (AW9U)",
+      "price": 0.97,
+      "yield": 8.87,
+      "gear": 34.5,
+      "pnav": 0.95,
+      "marketCap": 769000
+    },
+    {
+      "category": "Retail",
+      "name": "Fortune Reit HKD (F25U)",
+      "price": 10.14,
+      "yield": 5.06,
+      "gear": 20.9,
+      "pnav": 0.61,
+      "marketCap": 3394000
+    },
+    {
+      "category": "Office",
+      "name": "Frasers Com Tr (ND8U)",
+      "price": 1.48,
+      "yield": 6.49,
+      "gear": 29.1,
+      "pnav": 0.96,
+      "marketCap": 1336000
+    },
+    {
+      "category": "Retail",
+      "name": "Frasers Cpt Tr (J69U)",
+      "price": 2.36,
+      "yield": 5.12,
+      "gear": 28.8,
+      "pnav": 1.13,
+      "marketCap": 2191000
+    },
+    {
+      "category": "Hospitality",
+      "name": "Frasers HTrust (ACV)",
+      "price": 0.735,
+      "yield": 6.23,
+      "gear": 34.1,
+      "pnav": 0.97,
+      "marketCap": 1392000
+    },
+    {
+      "category": "Industrial",
+      "name": "Frasers L&I Tr (BUOU)",
+      "price": 1.15,
+      "yield": 6.19,
+      "gear": 35.1,
+      "pnav": 1.26,
+      "marketCap": 2334000
+    },
+    {
+      "category": "Office",
+      "name": "IREIT Global (UD1U)",
+      "price": 0.745,
+      "yield": 7.79,
+      "gear": 36.6,
+      "pnav": 1.01,
+      "marketCap": 472000
+    },
+    {
+      "category": "Office",
+      "name": "Kep-KBS Reit USD (CMOU)",
+      "price": 0.74,
+      "yield": 8,
+      "gear": 38.1,
+      "pnav": 0.95,
+      "marketCap": 832000
+    },
+    {
+      "category": "Industrial",
+      "name": "Keppel DC Reit (AJBU)",
+      "price": 1.51,
+      "yield": 4.93,
+      "gear": 32.5,
+      "pnav": 1.44,
+      "marketCap": 2041000
+    },
+    {
+      "category": "Office",
+      "name": "Keppel Reit (K71U)",
+      "price": 1.23,
+      "yield": 4.5,
+      "gear": 35.7,
+      "pnav": 0.9,
+      "marketCap": 4187000
+    },
+    {
+      "category": "Retail",
+      "name": "Lippo Malls Tr (D5IU)",
+      "price": 0.21,
+      "yield": 9.19,
+      "gear": 33.9,
+      "pnav": 0.71,
+      "marketCap": 608000
+    },
+    {
+      "category": "Office",
+      "name": "ManulifeReit USD (BTOU)",
+      "price": 0.87,
+      "yield": 7.01,
+      "gear": 37.6,
+      "pnav": 1.09,
+      "marketCap": 1521000
+    },
+    {
+      "category": "Retail",
+      "name": "Mapletree Com Tr (N2IU)",
+      "price": 1.95,
+      "yield": 4.69,
+      "gear": 33.1,
+      "pnav": 1.22,
+      "marketCap": 5635000
+    },
+    {
+      "category": "Industrial",
+      "name": "Mapletree Ind Tr (ME8U)",
+      "price": 2.07,
+      "yield": 5.87,
+      "gear": 33.8,
+      "pnav": 1.37,
+      "marketCap": 4184000
+    },
+    {
+      "category": "Industrial",
+      "name": "Mapletree Log Tr (M44U)",
+      "price": 1.49,
+      "yield": 5.33,
+      "gear": 37.7,
+      "pnav": 1.27,
+      "marketCap": 5397000
+    },
+    {
+      "category": "Retail",
+      "name": "Mapletree NAC Tr (RW0U)",
+      "price": 1.37,
+      "yield": 5.61,
+      "gear": 36.6,
+      "pnav": 0.95,
+      "marketCap": 4348000
+    },
+    {
+      "category": "Office",
+      "name": "OUE Com Reit (TS0U)",
+      "price": 0.495,
+      "yield": 8.24,
+      "gear": 39.3,
+      "pnav": 0.7,
+      "marketCap": 1416000
+    },
+    {
+      "category": "Hospitality",
+      "name": "OUE HTrust (SK7)",
+      "price": 0.72,
+      "yield": 6.82,
+      "gear": 38.4,
+      "pnav": 0.96,
+      "marketCap": 1320000
+    },
+    {
+      "category": "Healthcare",
+      "name": "ParkwayLife Reit (C2PU)",
+      "price": 2.88,
+      "yield": 4.51,
+      "gear": 36.4,
+      "pnav": 1.56,
+      "marketCap": 1742000
+    },
+    {
+      "category": "Industrial",
+      "name": "Sabana Reit (M1GU)",
+      "price": 0.415,
+      "yield": 7.35,
+      "gear": 33.9,
+      "pnav": 0.74,
+      "marketCap": 437000
+    },
+    {
+      "category": "Retail",
+      "name": "Sasseur Reit (CRPU)",
+      "price": 0.78,
+      "yield": 6.57,
+      "gear": 29,
+      "pnav": 0.86,
+      "marketCap": 927000
+    },
+    {
+      "category": "Industrial",
+      "name": "SoilbuildBizReit (SV3U)",
+      "price": 0.595,
+      "yield": 8.67,
+      "gear": 39.3,
+      "pnav": 0.96,
+      "marketCap": 633000
+    },
+    {
+      "category": "Retail",
+      "name": "SPHREIT (SK6U)",
+      "price": 1.03,
+      "yield": 5.39,
+      "gear": 30.1,
+      "pnav": 1.1,
+      "marketCap": 2669000
+    },
+    {
+      "category": "Retail",
+      "name": "StarhillGbl Reit (P40U)",
+      "price": 0.74,
+      "yield": 6.04,
+      "gear": 35.7,
+      "pnav": 0.83,
+      "marketCap": 1614000
+    },
+    {
+      "category": "Office",
+      "name": "Suntec Reit (T82U)",
+      "price": 1.8,
+      "yield": 5.55,
+      "gear": 38.6,
+      "pnav": 0.86,
+      "marketCap": 4830000
+    }
+  ],
+  "footNotes": [
+    "(Updated: 20190506-2020)",
+    "CromwellReit EUR (CNNU) MktCap to SGD at 1.5182312978.",
+    "Fortune Reit HKD (F25U) MktCap to SGD at 0.1736285906.",
+    "IREIT Global (UD1U) NAV of 0.45 Euro x 1.5413316225 on 26-Apr-2019.",
+    "Kep-KBS Reit USD (CMOU) MktCap to SGD at 1.3619405113.",
+    "Keppel DC Reit DPU declared quarterly, paid half-yearly",
+    "ManulifeReit USD (BTOU) MktCap to SGD at 1.3619405113."
+  ]
+}
